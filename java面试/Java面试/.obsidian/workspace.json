@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "93e79805b705a3e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0277151bc5a90dd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9c09b5c234b1f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/深入理解Java虚拟机.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2fd1cfb74c84aeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4fd0497cd7fbb07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "302988f1f4a276b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea6afd4778a06f54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11f1d4ee9806b5c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f2329669bb11900",
+    "type": "split",
+    "children": [
+      {
+        "id": "1131333597f985df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a28576ea12212da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/深入理解Java虚拟机.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad30da6c02b3633e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读书笔记/深入理解Java虚拟机.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36bfec89059f0a96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa796ba7e71e39ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读书笔记/深入理解Java虚拟机.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b9c09b5c234b1f90",
+  "lastOpenFiles": [
+    "笔记/java基础/JVM.md",
+    "读书笔记/深入理解Java虚拟机.md",
+    "附件/Pasted image 20231004125352.png",
+    "index/index.md",
+    "笔记/offer直通车.md",
+    "笔记/数据库/数据库.md",
+    "附件/Pasted image 20230924214613.png",
+    "index",
+    "读书笔记",
+    "pdf",
+    "附件",
+    "笔记/springboot",
+    "笔记/Mybatis",
+    "笔记/spring",
+    "笔记/数据库",
+    "笔记/操作系统",
+    "笔记/计算机网络"
+  ]
+}
