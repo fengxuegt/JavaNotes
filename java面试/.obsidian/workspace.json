@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "620547a6c4bc8f2b",
+        "id": "98a30a6a28b6e099",
         "type": "tabs",
         "children": [
           {
-            "id": "97add7c1c5e4f842",
+            "id": "f95d8acd597558ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java面试/index/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java面试/index/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java面试/index/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java面试/index/index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "97add7c1c5e4f842",
+  "active": "f95d8acd597558ac",
   "lastOpenFiles": [
-    "Java面试/笔记/java基础/JVM.md",
-    "Java面试/index/index.md"
+    "Java面试/index/index.md",
+    "Java面试/笔记/java基础/JVM.md"
   ]
 }
