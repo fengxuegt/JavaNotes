@@ -8,115 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b322b9558b37ac6",
+            "id": "f2e080249c991681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/注解.md",
+                "file": "index/面试技能树.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03052ab1abde25b2",
+            "id": "f15e07dbfdcf7746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/集合.md",
+                "file": "笔记/面试课程.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14e9f87ed806f380",
+            "id": "dec790b8ae8a1383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/求字典序最小的结果.md",
+                "file": "笔记/Java高级面试突围课.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e227c153fcee9bfe",
+            "id": "86668fed59c716c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/贪心算法.md",
+                "file": "笔记/数据库.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe894a6960443615",
+            "id": "0f6c41ba5253d7b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法刷题.md",
+                "file": "笔记/Redis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a64c5e793a2744e",
+            "id": "e5be9f55ee9fddd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/左程云体系学习班.md",
+                "file": "index/面试技能树.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ade8ffbd1cdb969",
+            "id": "ca538ffbf4656922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/图.md",
+                "file": "index/读书笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33e2376bec2c58ed",
+            "id": "a6c4246edb75a735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/计划.md",
+                "file": "笔记/Java并发编程的艺术.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4178857b21988fbb",
+            "id": "59c13c2b0d1247b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/判断是否是满二叉树.md",
+                "file": "笔记/第二章Java并发机制的底层实现原理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/集合.md",
+                "file": "笔记/第二章Java并发机制的底层实现原理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/集合.md",
+                "file": "笔记/第二章Java并发机制的底层实现原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/集合.md"
+                "file": "笔记/第二章Java并发机制的底层实现原理.md"
               }
             }
           }
@@ -244,44 +244,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03052ab1abde25b2",
+  "active": "59c13c2b0d1247b8",
   "lastOpenFiles": [
-    "笔记/Java语言本身.md",
+    "附件/Pasted image 20240127001339.png",
+    "附件/Pasted image 20240126235955.png",
+    "笔记/Java并发编程的艺术.md",
+    "笔记/第二章Java并发机制的底层实现原理.md",
+    "pdf/Java并发编程的艺术.pdf",
+    "index/读书笔记.md",
     "index/面试技能树.md",
-    "笔记/Redis.md",
-    "笔记/Redis快速入门.md",
-    "笔记/数据库.md",
-    "笔记/黑马2023.md",
-    "笔记/AOP.md",
-    "附件/Pasted image 20231127233013.png",
-    "附件/Pasted image 20231127231801.png",
-    "笔记/事务.md",
-    "附件/Pasted image 20231127225913.png",
-    "附件/Pasted image 20231127225613.png",
-    "笔记/统一异常处理器.md",
-    "笔记/拦截器.md",
-    "附件/Pasted image 20231126192732.png",
-    "笔记/过滤器.md",
+    "笔记/自我介绍.md",
+    "笔记/稿子.md",
+    "笔记/Kafka.md",
+    "笔记/常见问题.md",
     "笔记/项目.md",
-    "笔记/Mybatis.md",
-    "附件/Pasted image 20231123235333.png",
-    "附件/Pasted image 20231123235214.png",
-    "附件/Pasted image 20231123230800.png",
-    "附件/Pasted image 20231123230251.png",
-    "附件/Pasted image 20231122231136.png",
-    "笔记/Redis项目.md",
-    "笔记/计划.md",
-    "笔记/基础.md",
-    "笔记/包装类.md",
-    "笔记/注解.md",
-    "笔记/二叉树的递归套路.md",
-    "笔记/判断是否是满二叉树.md",
-    "笔记/苍穹外卖.md",
-    "笔记/图的拓扑排序.md",
-    "笔记/图.md",
-    "笔记/图的遍历.md",
-    "笔记/图的表示方法.md",
-    "笔记/左程云体系学习班.md",
+    "笔记/数据库.md",
+    "笔记/Redis.md",
+    "笔记/Redis原理篇.md",
+    "笔记/面试课程.md",
+    "笔记/Java高级面试突围课.md",
+    "笔记/二面进阶.md",
+    "笔记/一面上.md",
+    "笔记/普通索引和唯一索引应该怎么选.md",
+    "笔记/MySQL45讲.md",
+    "笔记/Redis高级篇.md",
+    "笔记/Redis实战篇.md",
+    "笔记/Java语言本身.md",
+    "笔记/新特性.md",
+    "附件/Pasted image 20240104001546.png",
+    "笔记/事务到底是隔离还是不隔离的.md",
+    "附件/Pasted image 20240103225249.png",
+    "附件/Pasted image 20240103224546.png",
+    "附件/Pasted image 20240103222346.png",
+    "笔记/行锁功过：怎么减少行锁对性能的影响.md",
+    "笔记/全局锁和表锁.md",
+    "附件/Pasted image 20231230225053.png",
+    "附件/Pasted image 20231230225009.png",
+    "附件/Pasted image 20231230223822.png",
+    "附件/Pasted image 20231230164257.png",
+    "附件/Pasted image 20231230162715.png",
     "index",
     "读书笔记",
     "pdf",
@@ -290,7 +291,6 @@
     "笔记/Mybatis",
     "笔记/spring",
     "笔记/数据库",
-    "笔记/操作系统",
-    "笔记/计算机网络"
+    "笔记/操作系统"
   ]
 }
